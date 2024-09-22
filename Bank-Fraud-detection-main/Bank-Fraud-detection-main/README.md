@@ -11,6 +11,4 @@ Developed a secure login and bank fraud detection system in Python that integrat
 - **Real-Time Monitoring**: Provides immediate detection of suspicious activities.
 - **Email Alerts**: Notifies users about critical events and potential fraud.
 
-### 🎥 Video Link
 
-[![Bank Fraud Detection Video](https://img.youtube.com/vi/2ic-IKB2acE/0.jpg)](https://youtu.be/2ic-IKB2acE)
